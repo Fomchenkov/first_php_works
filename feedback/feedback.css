@@ -1,0 +1,38 @@
+#feeddiv {
+	background: silver;
+	border-radius: 10px;
+	width: 500px;
+	height: 310px;
+	margin: auto;
+	margin-top: 100px;
+	float: center;
+}
+
+#feedinp {
+	margin: 10px;
+	padding: 10px;
+}
+
+#feedtextarea {
+	width: 300px;
+	height: 150px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#subm {
+   width: 200px;
+   height: 30px;
+   border: none;
+   background: #595B5F;
+   color: #fff;
+   margin: 10px;
+   text-transform: uppercase;
+   transition: 1s;
+}
+
+#subm:hover {
+	color: #595B5F;
+	background: #fff;
+	transition: 1s;
+}
